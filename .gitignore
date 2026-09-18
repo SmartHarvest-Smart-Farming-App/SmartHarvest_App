@@ -52,3 +52,5 @@ coverage/
 .DS_Store
 Thumbs.db
 desktop.ini
+frontend/android/app/google-services.json
+frontend/lib/firebase_options.dart
